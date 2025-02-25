@@ -1,0 +1,93 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="2339" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="10" width="960" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#f8faff&quot;&gt;&lt;span style=&quot;font-size: 16.002px; background-color: rgb(41, 42, 45);&quot;&gt;&lt;b&gt;Reserver un Taxi&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="110" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-7" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;Annuler une réservation&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="110" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="110" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="120" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" target="72MWb_QYkgSGlyO7pgQq-13" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="558.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="120" y="481.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="72MWb_QYkgSGlyO7pgQq-3" source="72MWb_QYkgSGlyO7pgQq-14" target="72MWb_QYkgSGlyO7pgQq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-14" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;Annuler une réservation&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="200" y="690" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" source="72MWb_QYkgSGlyO7pgQq-22" target="72MWb_QYkgSGlyO7pgQq-17" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#f8faff&quot;&gt;&lt;span style=&quot;font-size: 16.002px; background-color: rgb(41, 42, 45);&quot;&gt;&lt;b&gt;gerer resrvations&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="100" y="590" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" target="72MWb_QYkgSGlyO7pgQq-20" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="707" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" target="72MWb_QYkgSGlyO7pgQq-21" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="717" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-20" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="100" y="790" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-21" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="110" y="900" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="-180" y="660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-24" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;Annuler une réservation&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72MWb_QYkgSGlyO7pgQq-3">
+          <mxGeometry x="260" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.888;entryY=0.241;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" source="72MWb_QYkgSGlyO7pgQq-24" parent="72MWb_QYkgSGlyO7pgQq-3" target="72MWb_QYkgSGlyO7pgQq-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="72MWb_QYkgSGlyO7pgQq-4" target="72MWb_QYkgSGlyO7pgQq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" target="72MWb_QYkgSGlyO7pgQq-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="227" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" target="72MWb_QYkgSGlyO7pgQq-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="237" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72MWb_QYkgSGlyO7pgQq-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" target="72MWb_QYkgSGlyO7pgQq-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="247" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
